@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michaelruiz
-- 👀 I’m interested in all kinds of cool things
-- 🌱 I’m currently learning Java 8
-- 💞️ I’m looking to collaborate on Java projects
+- 👀 I’m interested in 3D printing, gaming, and hacking
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Java or JavaScript projects
 - 📫 How to reach me michael.ruiz@outlook.com
 
 <!---
