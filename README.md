@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michaelruiz
-- 👀 I’m interested in 3D printing, gaming, and hacking
+- 👀 I’m interested in 3D printing, gaming, and crypto
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Java or JavaScript projects
 - 📫 How to reach me michael.ruiz@outlook.com
